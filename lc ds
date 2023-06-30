@@ -1,0 +1,23 @@
+[33mcommit 7e48029958d8e3b3f14bb298c3d2c37c999a278e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Josefina Barra <josefina.barraq@mayor.cl>
+Date:   Fri Jun 30 00:16:01 2023 -0400
+
+    Entrega final
+
+[33mcommit 9ceb58dd7e187ab87691a6c30f1caa33ae33dd0c[m
+Author: Josefina Barra <josefina.barraq@mayor.cl>
+Date:   Tue Jun 27 18:14:08 2023 -0400
+
+    Ordered imports according to PEP 8
+
+[33mcommit 82f28da2bad1b13a0b1ce35b139c8f0a024aa0a0[m
+Author: Josefina Barra <josefina.barraq@mayor.cl>
+Date:   Tue Jun 27 17:05:51 2023 -0400
+
+    Small improvement to help information
+
+[33mcommit 7bebccb12ff0ed544dac843fabe086d8d53242a1[m
+Author: Josefina Barra <josefina.barraq@mayor.cl>
+Date:   Tue Jun 27 16:58:59 2023 -0400
+
+    Initial commit of precip climatology script
